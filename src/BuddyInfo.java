@@ -1,4 +1,6 @@
 public class BuddyInfo {
+    /*adding comment*/
+
     private String name;
     private String address;
     private int phone_number;
